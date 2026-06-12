@@ -10,7 +10,7 @@ RetailPulse is an end-to-end Data Science and MLOps platform designed to help re
 * **Arpit Dubey (Member 1)** — Data Ingestion & ETL Automation Pipeline Lead
 * **Mohammed ilyas salwan (Member 2)** — Customer Segmentation & Churn Analytics Specialist
 * ** Yaswanth chenna(Member 3)** — Time-Series Demand Forecasting Engineer
-
+  
 ---
 
 ## 🛠️ Current Project Progress
@@ -28,5 +28,6 @@ To test our current workspace pipeline locally, follow these steps:
 
 ### 1. Clone the Workspace
 ```bash
+pip install -r requirements.txt'''
 git clone [https://github.com/Kashish0088/RetailPulse-Analytics.git](https://github.com/YOUR_USERNAME/RetailPulse-Analytics.git)
 cd RetailPulse-Analytics
